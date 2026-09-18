@@ -1,4 +1,4 @@
- Demostración para Instructores - Gemini Enterprise Agent Platform: agentes inteligentes para el negocio
+# Demostración para Instructores - Gemini Enterprise Agent Platform: agentes inteligentes para el negocio
 
 El propósito de este documento es sugerir la demostación que el instructor puede realizar durante la entrega del seminario Introducción a Gemini Enterprise Agent Platform: agentes inteligentes para el negocio. Los siguientes pasos son generales, se entiende que el instructor tiene las habilidades para comprenderlo. Están organizados en orden de los slides de Power Point adjuntos. 
 
