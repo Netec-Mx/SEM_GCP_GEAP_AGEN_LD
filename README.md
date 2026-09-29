@@ -8,7 +8,7 @@
 
 ## Plataforma de laboratorios
 
-----
+
 
 Te damos la bienvenida a la **plataforma de laboratorios** del curso **Gemini Enterprise Agent Platform: agentes inteligentes para el negocio**. Aquí podrás explorar diferentes tecnologías a través de prácticas guiadas. ¡Desarrolla tus habilidades y lleva tus conocimientos al siguiente nivel!
 
